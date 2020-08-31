@@ -1,0 +1,23 @@
+{
+  "name": "react-markdown-mixed",
+  "version": "0.1.0",
+  "description": "parse markdown and embed react components",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "keywords": [
+    "react",
+    "markdown",
+    "embded",
+    "component"
+  ],
+  "author": "Khaled Maher",
+  "license": "ISC",
+  "dependencies": {
+    "prop-types": "^15.7.2",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-markdown": "^4.3.1"
+  }
+}
